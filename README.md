@@ -21,9 +21,9 @@
    
  - использована [модель](https://developers.sber.ru/gigachat/login?ysclid=lthb8b07w5358928848) GigaChat для предобработки пользовательского запроса
 
- - это все работает в телеграм боте(библиотека telebot)
+ - это все работает в телеграм боте (библиотека telebot)
   
- - запущено на ВМ Selectel
+ - запущено на ВМ Yandex
 
 ## Алгоритм использования бота<br>
 ![](img/shema.png)
@@ -41,6 +41,7 @@
  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD700.svg?style=for-the-badge&logo=Hugging%20Face&logoColor=black)](https://huggingface.co/)
 [![Telebot](https://img.shields.io/badge/Telebot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/eternnoir/pyTelegramBotAPI)
 [![gigachat](https://img.shields.io/badge/gigachat-2CA5E0?style=for-the-badge)](https://gigachat.io/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 ![картинка](images/3.png)
 *Выпускной проект |  ELBRUS Bootcamp*
