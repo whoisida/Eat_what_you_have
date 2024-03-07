@@ -1,18 +1,15 @@
-# Ешь, что дали!
-*Выпускной проект |  ELBRUS Bootcamp*
-
-## Команда: Константин, Оксана, Ида
-
-# TelegramBot
+# Ешь, что дали!       
+### Основная идея проекта:<br>
+### TelegramBot
 **https://t.me/chooserecipebot**
 
 Это инновационный Telegram-бот, разработанный с целью помочь пользователю подобрать рецепты из тех продуктов, которые есть у него буквально на полке в холодильнике.
 
- - парсинг 1500 рецептов при помощи библиотеки BeautifulSoup
+ - парсинг 1500 c [сайта](https://www.say7.info) рецептов при помощи библиотеки BeautifulSoup
 
  - предобработка и структурирование текстовых данных с помощью NLP библиотки nltk
 
- - размечено 3838 фотографий на 113 классов продуктов при помощи Roboflow
+ - размечено 3838 фотографий [dataset](https://app.roboflow.com/foods-project) на 113 классов продуктов при помощи Roboflow
    
  - работа с дисбалансом классов изображений для обучения модели детекции YOLO-8 (уменьшение мажориторных классов, увеличение миноритарных классов)
    
@@ -39,4 +36,9 @@
 [![Telebot](https://img.shields.io/badge/Telebot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/eternnoir/pyTelegramBotAPI)
 [![gigachat](https://img.shields.io/badge/gigachat-2CA5E0?style=for-the-badge)](https://gigachat.io/)
 
+*Выпускной проект |  ELBRUS Bootcamp*
 
+## Над проектом работали:<br>
+[Константин Салафонов](https://github.com/sakoser)<br>
+[Оксана Шаталова](https://github.com/datascientist23)<br>
+[Ида Климанова](https://github.com/whoisida)<br>
