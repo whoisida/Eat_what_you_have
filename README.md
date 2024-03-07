@@ -1,6 +1,7 @@
 # Ешь, что дали!       
 ### Основная идея проекта:<br>
 ![картинка](images/1.png)
+
 ### TelegramBot **https://t.me/chooserecipebot**
 
 
@@ -41,6 +42,7 @@
 [![Telebot](https://img.shields.io/badge/Telebot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/eternnoir/pyTelegramBotAPI)
 [![gigachat](https://img.shields.io/badge/gigachat-2CA5E0?style=for-the-badge)](https://gigachat.io/)
 
+![картинка](images/3.png)
 *Выпускной проект |  ELBRUS Bootcamp*
 
 ## Над проектом работали:<br>
