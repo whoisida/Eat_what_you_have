@@ -1,5 +1,6 @@
 # Ешь, что дали!       
 ### Основная идея проекта:<br>
+![картинка](images/1.png)
 ### TelegramBot **https://t.me/chooserecipebot**
 
 
