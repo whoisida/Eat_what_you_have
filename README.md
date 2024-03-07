@@ -15,9 +15,9 @@
    
  - создана структура подбора рецепта из предпочтений пользователя,а также возможность диалога с ботом с оценкой пользователем работы бота
    
- - дообучена модель ruBERT-tiny2 (SentensTransformers)
+ - дообучена [модель](https://huggingface.co/cointegrated/rubert-tiny2) ruBERT-tiny2 (SentensTransformers)
    
- - использована модель GigaChat для предобработки пользовательского запроса
+ - использована [модель](https://developers.sber.ru/gigachat/login?ysclid=lthb8b07w5358928848) GigaChat для предобработки пользовательского запроса
 
  - это все работает в телеграм боте(библиотека telebot)
   
